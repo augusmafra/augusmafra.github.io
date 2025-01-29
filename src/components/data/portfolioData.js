@@ -17,12 +17,12 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
-		title: 'Restaurant',
+		imgSrc: 'https://app.powerbi.com/reportEmbed?reportId=23bde789-8330-487c-a942-4f4c61b9585a&autoAuth=true&ctid=e4caf3d5-f1de-428a-b9e0-2c313a61b94e',
+		title: 'Dashboard Power BI',
 		skills: ['React', 'StyledComponents'],
 		descripcion:
 			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: '',
+		demoURL: 'https://app.powerbi.com/reportEmbed?reportId=23bde789-8330-487c-a942-4f4c61b9585a&autoAuth=true&ctid=e4caf3d5-f1de-428a-b9e0-2c313a61b94e',
 		repoURL: '',
 		anim: 'fade-right',
 	},
