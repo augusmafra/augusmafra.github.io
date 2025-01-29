@@ -22,7 +22,7 @@ export const portafolioData = [
 		skills: ['React', 'StyledComponents'],
 		descripcion:
 			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
-		demoURL: 'https://app.powerbi.com/reportEmbed?reportId=23bde789-8330-487c-a942-4f4c61b9585a&autoAuth=true&ctid=e4caf3d5-f1de-428a-b9e0-2c313a61b94e',
+		demoURL: 'https://app.powerbi.com/view?r=eyJrIjoiYWViNDNhMWItZTgyMS00YTgwLTg1OTAtMjNkYTA3YTAxOThlIiwidCI6ImU0Y2FmM2Q1LWYxZGUtNDI4YS1iOWUwLTJjMzEzYTYxYjk0ZSIsImMiOjR9',
 		repoURL: '',
 		anim: 'fade-right',
 	},
